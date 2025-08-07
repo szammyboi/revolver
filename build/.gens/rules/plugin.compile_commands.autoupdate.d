@@ -1,0 +1,38 @@
+{
+    files = {
+        [[c:\dev\cpp\Revolver\testing\xmake.lua]],
+        [[c:\dev\cpp\Revolver\testing\.xmake\windows\x64\xmake.conf]]
+    },
+    values = {
+        [[App\main.cpp]],
+        [[HotReload\Func.cpp]],
+        [[Revolver\Revolver.cpp]],
+        [[Revolver\efsw\src\efsw\Debug.cpp]],
+        [[Revolver\efsw\src\efsw\DirWatcherGeneric.cpp]],
+        [[Revolver\efsw\src\efsw\DirectorySnapshot.cpp]],
+        [[Revolver\efsw\src\efsw\DirectorySnapshotDiff.cpp]],
+        [[Revolver\efsw\src\efsw\FileInfo.cpp]],
+        [[Revolver\efsw\src\efsw\FileSystem.cpp]],
+        [[Revolver\efsw\src\efsw\FileWatcher.cpp]],
+        [[Revolver\efsw\src\efsw\FileWatcherCWrapper.cpp]],
+        [[Revolver\efsw\src\efsw\FileWatcherFSEvents.cpp]],
+        [[Revolver\efsw\src\efsw\FileWatcherGeneric.cpp]],
+        [[Revolver\efsw\src\efsw\FileWatcherImpl.cpp]],
+        [[Revolver\efsw\src\efsw\FileWatcherInotify.cpp]],
+        [[Revolver\efsw\src\efsw\FileWatcherKqueue.cpp]],
+        [[Revolver\efsw\src\efsw\FileWatcherWin32.cpp]],
+        [[Revolver\efsw\src\efsw\Log.cpp]],
+        [[Revolver\efsw\src\efsw\String.cpp]],
+        [[Revolver\efsw\src\efsw\System.cpp]],
+        [[Revolver\efsw\src\efsw\Watcher.cpp]],
+        [[Revolver\efsw\src\efsw\WatcherFSEvents.cpp]],
+        [[Revolver\efsw\src\efsw\WatcherGeneric.cpp]],
+        [[Revolver\efsw\src\efsw\WatcherInotify.cpp]],
+        [[Revolver\efsw\src\efsw\WatcherKqueue.cpp]],
+        [[Revolver\efsw\src\efsw\WatcherWin32.cpp]],
+        [[Revolver\efsw\src\efsw\platform\posix\FileSystemImpl.cpp]],
+        [[Revolver\efsw\src\efsw\platform\posix\SystemImpl.cpp]],
+        [[Revolver\efsw\src\efsw\platform\win\FileSystemImpl.cpp]],
+        [[Revolver\efsw\src\efsw\platform\win\SystemImpl.cpp]]
+    }
+}

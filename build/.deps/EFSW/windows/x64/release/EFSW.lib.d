@@ -1,0 +1,40 @@
+{
+    files = {
+        [[build\.objs\EFSW\windows\x64\release\Revolver\efsw\src\efsw\Debug.cpp.obj]],
+        [[build\.objs\EFSW\windows\x64\release\Revolver\efsw\src\efsw\DirectorySnapshot.cpp.obj]],
+        [[build\.objs\EFSW\windows\x64\release\Revolver\efsw\src\efsw\DirectorySnapshotDiff.cpp.obj]],
+        [[build\.objs\EFSW\windows\x64\release\Revolver\efsw\src\efsw\DirWatcherGeneric.cpp.obj]],
+        [[build\.objs\EFSW\windows\x64\release\Revolver\efsw\src\efsw\FileInfo.cpp.obj]],
+        [[build\.objs\EFSW\windows\x64\release\Revolver\efsw\src\efsw\FileSystem.cpp.obj]],
+        [[build\.objs\EFSW\windows\x64\release\Revolver\efsw\src\efsw\FileWatcher.cpp.obj]],
+        [[build\.objs\EFSW\windows\x64\release\Revolver\efsw\src\efsw\FileWatcherCWrapper.cpp.obj]],
+        [[build\.objs\EFSW\windows\x64\release\Revolver\efsw\src\efsw\FileWatcherFSEvents.cpp.obj]],
+        [[build\.objs\EFSW\windows\x64\release\Revolver\efsw\src\efsw\FileWatcherGeneric.cpp.obj]],
+        [[build\.objs\EFSW\windows\x64\release\Revolver\efsw\src\efsw\FileWatcherImpl.cpp.obj]],
+        [[build\.objs\EFSW\windows\x64\release\Revolver\efsw\src\efsw\FileWatcherInotify.cpp.obj]],
+        [[build\.objs\EFSW\windows\x64\release\Revolver\efsw\src\efsw\FileWatcherKqueue.cpp.obj]],
+        [[build\.objs\EFSW\windows\x64\release\Revolver\efsw\src\efsw\FileWatcherWin32.cpp.obj]],
+        [[build\.objs\EFSW\windows\x64\release\Revolver\efsw\src\efsw\Log.cpp.obj]],
+        [[build\.objs\EFSW\windows\x64\release\Revolver\efsw\src\efsw\String.cpp.obj]],
+        [[build\.objs\EFSW\windows\x64\release\Revolver\efsw\src\efsw\System.cpp.obj]],
+        [[build\.objs\EFSW\windows\x64\release\Revolver\efsw\src\efsw\Watcher.cpp.obj]],
+        [[build\.objs\EFSW\windows\x64\release\Revolver\efsw\src\efsw\WatcherFSEvents.cpp.obj]],
+        [[build\.objs\EFSW\windows\x64\release\Revolver\efsw\src\efsw\WatcherGeneric.cpp.obj]],
+        [[build\.objs\EFSW\windows\x64\release\Revolver\efsw\src\efsw\WatcherInotify.cpp.obj]],
+        [[build\.objs\EFSW\windows\x64\release\Revolver\efsw\src\efsw\WatcherKqueue.cpp.obj]],
+        [[build\.objs\EFSW\windows\x64\release\Revolver\efsw\src\efsw\WatcherWin32.cpp.obj]],
+        [[build\.objs\EFSW\windows\x64\release\Revolver\efsw\src\efsw\platform\posix\FileSystemImpl.cpp.obj]],
+        [[build\.objs\EFSW\windows\x64\release\Revolver\efsw\src\efsw\platform\posix\SystemImpl.cpp.obj]],
+        [[build\.objs\EFSW\windows\x64\release\Revolver\efsw\src\efsw\platform\win\FileSystemImpl.cpp.obj]],
+        [[build\.objs\EFSW\windows\x64\release\Revolver\efsw\src\efsw\platform\win\SystemImpl.cpp.obj]]
+    },
+    values = {
+        [[C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\HostX64\x64\link.exe]],
+        {
+            "-nologo",
+            "-machine:x64",
+            "/opt:ref",
+            "/opt:icf"
+        }
+    }
+}
