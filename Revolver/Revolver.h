@@ -1,5 +1,7 @@
 #pragma once
 
+#include "Commands.h"
+#include "Memory.h"
 #include <Windows.h>
 #include <string>
 #include <unordered_map>
@@ -13,12 +15,17 @@ namespace efsw {
 class Revolver
 {
 public:
-	friend class Listener_DLL;
-	friend class Listener_File;
+	friend class ListenerDLL;
+	friend class ListenerFile;
 
 public:
 	Revolver();
 	~Revolver();
+
+	void SetBuildCommand(const std::string& command, const std::string& dir = ".")
+	{
+		m_BuildCommand = Command::Create(command, dir);
+	}
 
 	bool AddModule(const std::string& module);
 
@@ -35,10 +42,12 @@ private:
 	// void ReloadModule(const std::string& module);
 private:
 	efsw::FileWatcher* m_Watcher;
-	Listener_DLL* m_Listener;
-	Listener_File* m_FileListener;
-	
+	ListenerDLL* m_Listener;
+	ListenerFile* m_FileListener;
+
 	std::unordered_map<std::string, HMODULE>
 	    m_Modules;
 	std::unordered_map<std::string, std::string> m_Paths;
+
+	Shared<Command> m_BuildCommand;
 };

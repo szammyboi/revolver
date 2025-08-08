@@ -2,10 +2,10 @@
 
 int test2()
 {
-    return 200;
+	return 0120;
 }
 
 REVOLVER_EXPOSE int test()
 {
-    return 1 * test2();
+	return 9 * test2();
 }

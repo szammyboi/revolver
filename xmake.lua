@@ -24,9 +24,11 @@ target "Revolver"
 	set_kind "static"
 	add_files {
 		"./Revolver/*.cpp",
+		"./Revolver/Platform/**/*.cpp",
 		--"./Revolver/**/*.cpp",
 	}
 	add_includedirs {
+		"./",
 		"./Revolver",
 		"./Revolver/efsw/include/",
 		"./Revolver/efsw/include/efsw/"

@@ -5,7 +5,8 @@
 
 typedef int(__cdecl* TestFunction)();
 
-struct Balls {
+struct Balls
+{
 	int v = 5;
 };
 
@@ -14,8 +15,11 @@ int main()
 	std::cout << "App Started" << std::endl;
 
 	Revolver revolver;
+
+	revolver.SetBuildCommand("xmake build", "C:\\dev\\cpp\\revolver");
+
 	bool success = revolver.AddModule("HotReload");
-	revolver.LinkModuleFiles("HotReload", "c:/dev/cpp/revolver/testing/HotReload");
+	revolver.LinkModuleFiles("HotReload", "c:/dev/cpp/revolver/HotReload");
 
 	if (!success)
 	{
@@ -24,7 +28,7 @@ int main()
 
 	TestFunction test = revolver.GetFunction<TestFunction>("HotReload", "test");
 	std::cout << test() << std::endl;
-	
+
 	while (true)
 	{
 		//TestFunction test = revolver.GetFunction<TestFunction>("HotReload", "test");

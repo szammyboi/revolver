@@ -1,151 +1,171 @@
 [
 {
-  "directory": "c:\\dev\\cpp\\Revolver\\testing",
+  "directory": "C:\\dev\\cpp\\Revolver",
   "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/O2", "/std:c++17", "/IRevolver", "/Ibuild\\.gens\\HotReload\\windows\\x64\\release\\platform\\windows\\idl", "/EHsc", "/DNDEBUG", "/Fobuild\\.objs\\HotReload\\windows\\x64\\release\\HotReload\\Func.cpp.obj", "HotReload\\Func.cpp"],
   "file": "HotReload\\Func.cpp"
 },
 {
-  "directory": "c:\\dev\\cpp\\Revolver\\testing",
-  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/O2", "/std:c++17", "/IRevolver", "/IRevolver\\efsw\\include", "/IRevolver\\efsw\\include\\efsw", "/Ibuild\\.gens\\Revolver\\windows\\x64\\release\\platform\\windows\\idl", "/Ibuild\\.gens\\EFSW\\windows\\x64\\release\\platform\\windows\\idl", "/EHsc", "/DNDEBUG", "/Fobuild\\.objs\\Revolver\\windows\\x64\\release\\Revolver\\Revolver.cpp.obj", "Revolver\\Revolver.cpp"],
+  "directory": "C:\\dev\\cpp\\Revolver",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/O2", "/std:c++17", "/I.", "/IRevolver", "/IRevolver\\efsw\\include", "/IRevolver\\efsw\\include\\efsw", "/Ibuild\\.gens\\Revolver\\windows\\x64\\release\\platform\\windows\\idl", "/Ibuild\\.gens\\EFSW\\windows\\x64\\release\\platform\\windows\\idl", "/EHsc", "/DNDEBUG", "/Fobuild\\.objs\\Revolver\\windows\\x64\\release\\Revolver\\Allocators.cpp.obj", "Revolver\\Allocators.cpp"],
+  "file": "Revolver\\Allocators.cpp"
+},
+{
+  "directory": "C:\\dev\\cpp\\Revolver",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/O2", "/std:c++17", "/I.", "/IRevolver", "/IRevolver\\efsw\\include", "/IRevolver\\efsw\\include\\efsw", "/Ibuild\\.gens\\Revolver\\windows\\x64\\release\\platform\\windows\\idl", "/Ibuild\\.gens\\EFSW\\windows\\x64\\release\\platform\\windows\\idl", "/EHsc", "/DNDEBUG", "/Fobuild\\.objs\\Revolver\\windows\\x64\\release\\Revolver\\Commands.cpp.obj", "Revolver\\Commands.cpp"],
+  "file": "Revolver\\Commands.cpp"
+},
+{
+  "directory": "C:\\dev\\cpp\\Revolver",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/O2", "/std:c++17", "/I.", "/IRevolver", "/IRevolver\\efsw\\include", "/IRevolver\\efsw\\include\\efsw", "/Ibuild\\.gens\\Revolver\\windows\\x64\\release\\platform\\windows\\idl", "/Ibuild\\.gens\\EFSW\\windows\\x64\\release\\platform\\windows\\idl", "/EHsc", "/DNDEBUG", "/Fobuild\\.objs\\Revolver\\windows\\x64\\release\\Revolver\\Listeners.cpp.obj", "Revolver\\Listeners.cpp"],
+  "file": "Revolver\\Listeners.cpp"
+},
+{
+  "directory": "C:\\dev\\cpp\\Revolver",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/O2", "/std:c++17", "/I.", "/IRevolver", "/IRevolver\\efsw\\include", "/IRevolver\\efsw\\include\\efsw", "/Ibuild\\.gens\\Revolver\\windows\\x64\\release\\platform\\windows\\idl", "/Ibuild\\.gens\\EFSW\\windows\\x64\\release\\platform\\windows\\idl", "/EHsc", "/DNDEBUG", "/Fobuild\\.objs\\Revolver\\windows\\x64\\release\\Revolver\\Revolver.cpp.obj", "Revolver\\Revolver.cpp"],
   "file": "Revolver\\Revolver.cpp"
 },
 {
-  "directory": "c:\\dev\\cpp\\Revolver\\testing",
-  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/O2", "/std:c++17", "/IApp", "/IRevolver", "/Ibuild\\.gens\\Engine\\windows\\x64\\release\\platform\\windows\\idl", "/Ibuild\\.gens\\Revolver\\windows\\x64\\release\\platform\\windows\\idl", "/Ibuild\\.gens\\EFSW\\windows\\x64\\release\\platform\\windows\\idl", "/EHsc", "/DNDEBUG", "/Fobuild\\.objs\\Engine\\windows\\x64\\release\\App\\main.cpp.obj", "App\\main.cpp"],
-  "file": "App\\main.cpp"
+  "directory": "C:\\dev\\cpp\\Revolver",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/O2", "/std:c++17", "/I.", "/IRevolver", "/IRevolver\\efsw\\include", "/IRevolver\\efsw\\include\\efsw", "/Ibuild\\.gens\\Revolver\\windows\\x64\\release\\platform\\windows\\idl", "/Ibuild\\.gens\\EFSW\\windows\\x64\\release\\platform\\windows\\idl", "/EHsc", "/DNDEBUG", "/Fobuild\\.objs\\Revolver\\windows\\x64\\release\\Revolver\\Platform\\Windows\\WindowsCommand.cpp.obj", "Revolver\\Platform\\Windows\\WindowsCommand.cpp"],
+  "file": "Revolver\\Platform\\Windows\\WindowsCommand.cpp"
 },
 {
-  "directory": "c:\\dev\\cpp\\Revolver\\testing",
+  "directory": "C:\\dev\\cpp\\Revolver",
   "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/O2", "/std:c++17", "/IRevolver\\efsw\\include", "/IRevolver\\efsw\\src", "/IRevolver\\efsw\\include\\efsw", "/Ibuild\\.gens\\EFSW\\windows\\x64\\release\\platform\\windows\\idl", "/EHsc", "/DNDEBUG", "/Fobuild\\.objs\\EFSW\\windows\\x64\\release\\Revolver\\efsw\\src\\efsw\\Debug.cpp.obj", "Revolver\\efsw\\src\\efsw\\Debug.cpp"],
   "file": "Revolver\\efsw\\src\\efsw\\Debug.cpp"
 },
 {
-  "directory": "c:\\dev\\cpp\\Revolver\\testing",
+  "directory": "C:\\dev\\cpp\\Revolver",
   "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/O2", "/std:c++17", "/IRevolver\\efsw\\include", "/IRevolver\\efsw\\src", "/IRevolver\\efsw\\include\\efsw", "/Ibuild\\.gens\\EFSW\\windows\\x64\\release\\platform\\windows\\idl", "/EHsc", "/DNDEBUG", "/Fobuild\\.objs\\EFSW\\windows\\x64\\release\\Revolver\\efsw\\src\\efsw\\DirectorySnapshot.cpp.obj", "Revolver\\efsw\\src\\efsw\\DirectorySnapshot.cpp"],
   "file": "Revolver\\efsw\\src\\efsw\\DirectorySnapshot.cpp"
 },
 {
-  "directory": "c:\\dev\\cpp\\Revolver\\testing",
+  "directory": "C:\\dev\\cpp\\Revolver",
   "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/O2", "/std:c++17", "/IRevolver\\efsw\\include", "/IRevolver\\efsw\\src", "/IRevolver\\efsw\\include\\efsw", "/Ibuild\\.gens\\EFSW\\windows\\x64\\release\\platform\\windows\\idl", "/EHsc", "/DNDEBUG", "/Fobuild\\.objs\\EFSW\\windows\\x64\\release\\Revolver\\efsw\\src\\efsw\\DirectorySnapshotDiff.cpp.obj", "Revolver\\efsw\\src\\efsw\\DirectorySnapshotDiff.cpp"],
   "file": "Revolver\\efsw\\src\\efsw\\DirectorySnapshotDiff.cpp"
 },
 {
-  "directory": "c:\\dev\\cpp\\Revolver\\testing",
+  "directory": "C:\\dev\\cpp\\Revolver",
   "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/O2", "/std:c++17", "/IRevolver\\efsw\\include", "/IRevolver\\efsw\\src", "/IRevolver\\efsw\\include\\efsw", "/Ibuild\\.gens\\EFSW\\windows\\x64\\release\\platform\\windows\\idl", "/EHsc", "/DNDEBUG", "/Fobuild\\.objs\\EFSW\\windows\\x64\\release\\Revolver\\efsw\\src\\efsw\\DirWatcherGeneric.cpp.obj", "Revolver\\efsw\\src\\efsw\\DirWatcherGeneric.cpp"],
   "file": "Revolver\\efsw\\src\\efsw\\DirWatcherGeneric.cpp"
 },
 {
-  "directory": "c:\\dev\\cpp\\Revolver\\testing",
+  "directory": "C:\\dev\\cpp\\Revolver",
   "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/O2", "/std:c++17", "/IRevolver\\efsw\\include", "/IRevolver\\efsw\\src", "/IRevolver\\efsw\\include\\efsw", "/Ibuild\\.gens\\EFSW\\windows\\x64\\release\\platform\\windows\\idl", "/EHsc", "/DNDEBUG", "/Fobuild\\.objs\\EFSW\\windows\\x64\\release\\Revolver\\efsw\\src\\efsw\\FileInfo.cpp.obj", "Revolver\\efsw\\src\\efsw\\FileInfo.cpp"],
   "file": "Revolver\\efsw\\src\\efsw\\FileInfo.cpp"
 },
 {
-  "directory": "c:\\dev\\cpp\\Revolver\\testing",
+  "directory": "C:\\dev\\cpp\\Revolver",
   "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/O2", "/std:c++17", "/IRevolver\\efsw\\include", "/IRevolver\\efsw\\src", "/IRevolver\\efsw\\include\\efsw", "/Ibuild\\.gens\\EFSW\\windows\\x64\\release\\platform\\windows\\idl", "/EHsc", "/DNDEBUG", "/Fobuild\\.objs\\EFSW\\windows\\x64\\release\\Revolver\\efsw\\src\\efsw\\FileSystem.cpp.obj", "Revolver\\efsw\\src\\efsw\\FileSystem.cpp"],
   "file": "Revolver\\efsw\\src\\efsw\\FileSystem.cpp"
 },
 {
-  "directory": "c:\\dev\\cpp\\Revolver\\testing",
+  "directory": "C:\\dev\\cpp\\Revolver",
   "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/O2", "/std:c++17", "/IRevolver\\efsw\\include", "/IRevolver\\efsw\\src", "/IRevolver\\efsw\\include\\efsw", "/Ibuild\\.gens\\EFSW\\windows\\x64\\release\\platform\\windows\\idl", "/EHsc", "/DNDEBUG", "/Fobuild\\.objs\\EFSW\\windows\\x64\\release\\Revolver\\efsw\\src\\efsw\\FileWatcher.cpp.obj", "Revolver\\efsw\\src\\efsw\\FileWatcher.cpp"],
   "file": "Revolver\\efsw\\src\\efsw\\FileWatcher.cpp"
 },
 {
-  "directory": "c:\\dev\\cpp\\Revolver\\testing",
+  "directory": "C:\\dev\\cpp\\Revolver",
   "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/O2", "/std:c++17", "/IRevolver\\efsw\\include", "/IRevolver\\efsw\\src", "/IRevolver\\efsw\\include\\efsw", "/Ibuild\\.gens\\EFSW\\windows\\x64\\release\\platform\\windows\\idl", "/EHsc", "/DNDEBUG", "/Fobuild\\.objs\\EFSW\\windows\\x64\\release\\Revolver\\efsw\\src\\efsw\\FileWatcherCWrapper.cpp.obj", "Revolver\\efsw\\src\\efsw\\FileWatcherCWrapper.cpp"],
   "file": "Revolver\\efsw\\src\\efsw\\FileWatcherCWrapper.cpp"
 },
 {
-  "directory": "c:\\dev\\cpp\\Revolver\\testing",
+  "directory": "C:\\dev\\cpp\\Revolver",
   "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/O2", "/std:c++17", "/IRevolver\\efsw\\include", "/IRevolver\\efsw\\src", "/IRevolver\\efsw\\include\\efsw", "/Ibuild\\.gens\\EFSW\\windows\\x64\\release\\platform\\windows\\idl", "/EHsc", "/DNDEBUG", "/Fobuild\\.objs\\EFSW\\windows\\x64\\release\\Revolver\\efsw\\src\\efsw\\FileWatcherFSEvents.cpp.obj", "Revolver\\efsw\\src\\efsw\\FileWatcherFSEvents.cpp"],
   "file": "Revolver\\efsw\\src\\efsw\\FileWatcherFSEvents.cpp"
 },
 {
-  "directory": "c:\\dev\\cpp\\Revolver\\testing",
+  "directory": "C:\\dev\\cpp\\Revolver",
   "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/O2", "/std:c++17", "/IRevolver\\efsw\\include", "/IRevolver\\efsw\\src", "/IRevolver\\efsw\\include\\efsw", "/Ibuild\\.gens\\EFSW\\windows\\x64\\release\\platform\\windows\\idl", "/EHsc", "/DNDEBUG", "/Fobuild\\.objs\\EFSW\\windows\\x64\\release\\Revolver\\efsw\\src\\efsw\\FileWatcherGeneric.cpp.obj", "Revolver\\efsw\\src\\efsw\\FileWatcherGeneric.cpp"],
   "file": "Revolver\\efsw\\src\\efsw\\FileWatcherGeneric.cpp"
 },
 {
-  "directory": "c:\\dev\\cpp\\Revolver\\testing",
+  "directory": "C:\\dev\\cpp\\Revolver",
   "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/O2", "/std:c++17", "/IRevolver\\efsw\\include", "/IRevolver\\efsw\\src", "/IRevolver\\efsw\\include\\efsw", "/Ibuild\\.gens\\EFSW\\windows\\x64\\release\\platform\\windows\\idl", "/EHsc", "/DNDEBUG", "/Fobuild\\.objs\\EFSW\\windows\\x64\\release\\Revolver\\efsw\\src\\efsw\\FileWatcherImpl.cpp.obj", "Revolver\\efsw\\src\\efsw\\FileWatcherImpl.cpp"],
   "file": "Revolver\\efsw\\src\\efsw\\FileWatcherImpl.cpp"
 },
 {
-  "directory": "c:\\dev\\cpp\\Revolver\\testing",
+  "directory": "C:\\dev\\cpp\\Revolver",
   "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/O2", "/std:c++17", "/IRevolver\\efsw\\include", "/IRevolver\\efsw\\src", "/IRevolver\\efsw\\include\\efsw", "/Ibuild\\.gens\\EFSW\\windows\\x64\\release\\platform\\windows\\idl", "/EHsc", "/DNDEBUG", "/Fobuild\\.objs\\EFSW\\windows\\x64\\release\\Revolver\\efsw\\src\\efsw\\FileWatcherInotify.cpp.obj", "Revolver\\efsw\\src\\efsw\\FileWatcherInotify.cpp"],
   "file": "Revolver\\efsw\\src\\efsw\\FileWatcherInotify.cpp"
 },
 {
-  "directory": "c:\\dev\\cpp\\Revolver\\testing",
+  "directory": "C:\\dev\\cpp\\Revolver",
   "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/O2", "/std:c++17", "/IRevolver\\efsw\\include", "/IRevolver\\efsw\\src", "/IRevolver\\efsw\\include\\efsw", "/Ibuild\\.gens\\EFSW\\windows\\x64\\release\\platform\\windows\\idl", "/EHsc", "/DNDEBUG", "/Fobuild\\.objs\\EFSW\\windows\\x64\\release\\Revolver\\efsw\\src\\efsw\\FileWatcherKqueue.cpp.obj", "Revolver\\efsw\\src\\efsw\\FileWatcherKqueue.cpp"],
   "file": "Revolver\\efsw\\src\\efsw\\FileWatcherKqueue.cpp"
 },
 {
-  "directory": "c:\\dev\\cpp\\Revolver\\testing",
+  "directory": "C:\\dev\\cpp\\Revolver",
   "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/O2", "/std:c++17", "/IRevolver\\efsw\\include", "/IRevolver\\efsw\\src", "/IRevolver\\efsw\\include\\efsw", "/Ibuild\\.gens\\EFSW\\windows\\x64\\release\\platform\\windows\\idl", "/EHsc", "/DNDEBUG", "/Fobuild\\.objs\\EFSW\\windows\\x64\\release\\Revolver\\efsw\\src\\efsw\\FileWatcherWin32.cpp.obj", "Revolver\\efsw\\src\\efsw\\FileWatcherWin32.cpp"],
   "file": "Revolver\\efsw\\src\\efsw\\FileWatcherWin32.cpp"
 },
 {
-  "directory": "c:\\dev\\cpp\\Revolver\\testing",
+  "directory": "C:\\dev\\cpp\\Revolver",
   "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/O2", "/std:c++17", "/IRevolver\\efsw\\include", "/IRevolver\\efsw\\src", "/IRevolver\\efsw\\include\\efsw", "/Ibuild\\.gens\\EFSW\\windows\\x64\\release\\platform\\windows\\idl", "/EHsc", "/DNDEBUG", "/Fobuild\\.objs\\EFSW\\windows\\x64\\release\\Revolver\\efsw\\src\\efsw\\Log.cpp.obj", "Revolver\\efsw\\src\\efsw\\Log.cpp"],
   "file": "Revolver\\efsw\\src\\efsw\\Log.cpp"
 },
 {
-  "directory": "c:\\dev\\cpp\\Revolver\\testing",
+  "directory": "C:\\dev\\cpp\\Revolver",
   "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/O2", "/std:c++17", "/IRevolver\\efsw\\include", "/IRevolver\\efsw\\src", "/IRevolver\\efsw\\include\\efsw", "/Ibuild\\.gens\\EFSW\\windows\\x64\\release\\platform\\windows\\idl", "/EHsc", "/DNDEBUG", "/Fobuild\\.objs\\EFSW\\windows\\x64\\release\\Revolver\\efsw\\src\\efsw\\String.cpp.obj", "Revolver\\efsw\\src\\efsw\\String.cpp"],
   "file": "Revolver\\efsw\\src\\efsw\\String.cpp"
 },
 {
-  "directory": "c:\\dev\\cpp\\Revolver\\testing",
+  "directory": "C:\\dev\\cpp\\Revolver",
   "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/O2", "/std:c++17", "/IRevolver\\efsw\\include", "/IRevolver\\efsw\\src", "/IRevolver\\efsw\\include\\efsw", "/Ibuild\\.gens\\EFSW\\windows\\x64\\release\\platform\\windows\\idl", "/EHsc", "/DNDEBUG", "/Fobuild\\.objs\\EFSW\\windows\\x64\\release\\Revolver\\efsw\\src\\efsw\\System.cpp.obj", "Revolver\\efsw\\src\\efsw\\System.cpp"],
   "file": "Revolver\\efsw\\src\\efsw\\System.cpp"
 },
 {
-  "directory": "c:\\dev\\cpp\\Revolver\\testing",
+  "directory": "C:\\dev\\cpp\\Revolver",
   "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/O2", "/std:c++17", "/IRevolver\\efsw\\include", "/IRevolver\\efsw\\src", "/IRevolver\\efsw\\include\\efsw", "/Ibuild\\.gens\\EFSW\\windows\\x64\\release\\platform\\windows\\idl", "/EHsc", "/DNDEBUG", "/Fobuild\\.objs\\EFSW\\windows\\x64\\release\\Revolver\\efsw\\src\\efsw\\Watcher.cpp.obj", "Revolver\\efsw\\src\\efsw\\Watcher.cpp"],
   "file": "Revolver\\efsw\\src\\efsw\\Watcher.cpp"
 },
 {
-  "directory": "c:\\dev\\cpp\\Revolver\\testing",
+  "directory": "C:\\dev\\cpp\\Revolver",
   "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/O2", "/std:c++17", "/IRevolver\\efsw\\include", "/IRevolver\\efsw\\src", "/IRevolver\\efsw\\include\\efsw", "/Ibuild\\.gens\\EFSW\\windows\\x64\\release\\platform\\windows\\idl", "/EHsc", "/DNDEBUG", "/Fobuild\\.objs\\EFSW\\windows\\x64\\release\\Revolver\\efsw\\src\\efsw\\WatcherFSEvents.cpp.obj", "Revolver\\efsw\\src\\efsw\\WatcherFSEvents.cpp"],
   "file": "Revolver\\efsw\\src\\efsw\\WatcherFSEvents.cpp"
 },
 {
-  "directory": "c:\\dev\\cpp\\Revolver\\testing",
+  "directory": "C:\\dev\\cpp\\Revolver",
   "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/O2", "/std:c++17", "/IRevolver\\efsw\\include", "/IRevolver\\efsw\\src", "/IRevolver\\efsw\\include\\efsw", "/Ibuild\\.gens\\EFSW\\windows\\x64\\release\\platform\\windows\\idl", "/EHsc", "/DNDEBUG", "/Fobuild\\.objs\\EFSW\\windows\\x64\\release\\Revolver\\efsw\\src\\efsw\\WatcherGeneric.cpp.obj", "Revolver\\efsw\\src\\efsw\\WatcherGeneric.cpp"],
   "file": "Revolver\\efsw\\src\\efsw\\WatcherGeneric.cpp"
 },
 {
-  "directory": "c:\\dev\\cpp\\Revolver\\testing",
+  "directory": "C:\\dev\\cpp\\Revolver",
   "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/O2", "/std:c++17", "/IRevolver\\efsw\\include", "/IRevolver\\efsw\\src", "/IRevolver\\efsw\\include\\efsw", "/Ibuild\\.gens\\EFSW\\windows\\x64\\release\\platform\\windows\\idl", "/EHsc", "/DNDEBUG", "/Fobuild\\.objs\\EFSW\\windows\\x64\\release\\Revolver\\efsw\\src\\efsw\\WatcherInotify.cpp.obj", "Revolver\\efsw\\src\\efsw\\WatcherInotify.cpp"],
   "file": "Revolver\\efsw\\src\\efsw\\WatcherInotify.cpp"
 },
 {
-  "directory": "c:\\dev\\cpp\\Revolver\\testing",
+  "directory": "C:\\dev\\cpp\\Revolver",
   "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/O2", "/std:c++17", "/IRevolver\\efsw\\include", "/IRevolver\\efsw\\src", "/IRevolver\\efsw\\include\\efsw", "/Ibuild\\.gens\\EFSW\\windows\\x64\\release\\platform\\windows\\idl", "/EHsc", "/DNDEBUG", "/Fobuild\\.objs\\EFSW\\windows\\x64\\release\\Revolver\\efsw\\src\\efsw\\WatcherKqueue.cpp.obj", "Revolver\\efsw\\src\\efsw\\WatcherKqueue.cpp"],
   "file": "Revolver\\efsw\\src\\efsw\\WatcherKqueue.cpp"
 },
 {
-  "directory": "c:\\dev\\cpp\\Revolver\\testing",
+  "directory": "C:\\dev\\cpp\\Revolver",
   "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/O2", "/std:c++17", "/IRevolver\\efsw\\include", "/IRevolver\\efsw\\src", "/IRevolver\\efsw\\include\\efsw", "/Ibuild\\.gens\\EFSW\\windows\\x64\\release\\platform\\windows\\idl", "/EHsc", "/DNDEBUG", "/Fobuild\\.objs\\EFSW\\windows\\x64\\release\\Revolver\\efsw\\src\\efsw\\WatcherWin32.cpp.obj", "Revolver\\efsw\\src\\efsw\\WatcherWin32.cpp"],
   "file": "Revolver\\efsw\\src\\efsw\\WatcherWin32.cpp"
 },
 {
-  "directory": "c:\\dev\\cpp\\Revolver\\testing",
+  "directory": "C:\\dev\\cpp\\Revolver",
   "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/O2", "/std:c++17", "/IRevolver\\efsw\\include", "/IRevolver\\efsw\\src", "/IRevolver\\efsw\\include\\efsw", "/Ibuild\\.gens\\EFSW\\windows\\x64\\release\\platform\\windows\\idl", "/EHsc", "/DNDEBUG", "/Fobuild\\.objs\\EFSW\\windows\\x64\\release\\Revolver\\efsw\\src\\efsw\\platform\\posix\\FileSystemImpl.cpp.obj", "Revolver\\efsw\\src\\efsw\\platform\\posix\\FileSystemImpl.cpp"],
   "file": "Revolver\\efsw\\src\\efsw\\platform\\posix\\FileSystemImpl.cpp"
 },
 {
-  "directory": "c:\\dev\\cpp\\Revolver\\testing",
+  "directory": "C:\\dev\\cpp\\Revolver",
   "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/O2", "/std:c++17", "/IRevolver\\efsw\\include", "/IRevolver\\efsw\\src", "/IRevolver\\efsw\\include\\efsw", "/Ibuild\\.gens\\EFSW\\windows\\x64\\release\\platform\\windows\\idl", "/EHsc", "/DNDEBUG", "/Fobuild\\.objs\\EFSW\\windows\\x64\\release\\Revolver\\efsw\\src\\efsw\\platform\\posix\\SystemImpl.cpp.obj", "Revolver\\efsw\\src\\efsw\\platform\\posix\\SystemImpl.cpp"],
   "file": "Revolver\\efsw\\src\\efsw\\platform\\posix\\SystemImpl.cpp"
 },
 {
-  "directory": "c:\\dev\\cpp\\Revolver\\testing",
+  "directory": "C:\\dev\\cpp\\Revolver",
   "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/O2", "/std:c++17", "/IRevolver\\efsw\\include", "/IRevolver\\efsw\\src", "/IRevolver\\efsw\\include\\efsw", "/Ibuild\\.gens\\EFSW\\windows\\x64\\release\\platform\\windows\\idl", "/EHsc", "/DNDEBUG", "/Fobuild\\.objs\\EFSW\\windows\\x64\\release\\Revolver\\efsw\\src\\efsw\\platform\\win\\FileSystemImpl.cpp.obj", "Revolver\\efsw\\src\\efsw\\platform\\win\\FileSystemImpl.cpp"],
   "file": "Revolver\\efsw\\src\\efsw\\platform\\win\\FileSystemImpl.cpp"
 },
 {
-  "directory": "c:\\dev\\cpp\\Revolver\\testing",
+  "directory": "C:\\dev\\cpp\\Revolver",
   "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/O2", "/std:c++17", "/IRevolver\\efsw\\include", "/IRevolver\\efsw\\src", "/IRevolver\\efsw\\include\\efsw", "/Ibuild\\.gens\\EFSW\\windows\\x64\\release\\platform\\windows\\idl", "/EHsc", "/DNDEBUG", "/Fobuild\\.objs\\EFSW\\windows\\x64\\release\\Revolver\\efsw\\src\\efsw\\platform\\win\\SystemImpl.cpp.obj", "Revolver\\efsw\\src\\efsw\\platform\\win\\SystemImpl.cpp"],
   "file": "Revolver\\efsw\\src\\efsw\\platform\\win\\SystemImpl.cpp"
+},
+{
+  "directory": "C:\\dev\\cpp\\Revolver",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/O2", "/std:c++17", "/IApp", "/IRevolver", "/Ibuild\\.gens\\Engine\\windows\\x64\\release\\platform\\windows\\idl", "/Ibuild\\.gens\\Revolver\\windows\\x64\\release\\platform\\windows\\idl", "/Ibuild\\.gens\\EFSW\\windows\\x64\\release\\platform\\windows\\idl", "/EHsc", "/DNDEBUG", "/Fobuild\\.objs\\Engine\\windows\\x64\\release\\App\\main.cpp.obj", "App\\main.cpp"],
+  "file": "App\\main.cpp"
 }]
